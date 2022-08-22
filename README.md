@@ -18,65 +18,65 @@ print(Red + "Hello, World!")
 
 ## The Methods in Module :
 * ~ ~ ~ ~ ~ ~ ~ Color ~ ~ ~ ~ ~ ~ ~ 
-*Black =
-*Red =
-*Green = 
-*Yellow
-*Blue 
-*Purple 
-*Cyan 
-*White 
+* Black =
+* Red =
+* Green = 
+* Yellow
+* Blue 
+* Purple 
+* Cyan 
+* White 
 * ~ ~ ~ ~ ~ ~ ~ Bold ~ ~ ~ ~ ~ ~ ~
-*BoBlack
-*BoRed 
-*BoGreen
-*BoYellow
-*BoBlue
-*BoPurple
-*BoCyan
-*BoWhite
+* BoBlack
+* BoRed 
+* BoGreen
+* BoYellow
+* BoBlue
+* BoPurple
+* BoCyan
+* BoWhite
 * ~ ~ ~ ~ ~ ~ ~ Underline ~ ~ ~ ~ ~ ~ ~ 
-*UnBlack
-*UnRed
-*UnGreen
-*UnYellow
-*UnBlue
-*UnPurple
-*UnCyan
-*UnWhite
+* UnBlack
+* UnRed
+* UnGreen
+* UnYellow
+* UnBlue
+* UnPurple
+* UnCyan
+* UnWhite
 * ~ ~ ~ ~ ~ ~ ~ Background ~ ~ ~ ~ ~ ~ ~ 
-*BaBlack
-*BaRed
-*BaGreen
-*BaYellow
-*BaBlue
-*BaPurple
-*BaCyan
-*BaWhite
+* BaBlack
+* BaRed
+* BaGreen
+* BaYellow
+* BaBlue
+* BaPurple
+* BaCyan
+* BaWhite
 * ~ ~ ~ ~ ~ ~ ~  High Intensty ~ ~ ~ ~ ~ ~ ~
-*IBlack
-*IRed
-*IGreen 
-*IYellow
-*IBlue
-*IPurple
-*ICyan
-*IWhite
+* IBlack
+* IRed
+* IGreen 
+* IYellow
+* IBlue
+* IPurple
+* ICyan
+* IWhite
 * ~ ~ ~ ~ ~ Bold High Intensty ~ ~ ~ ~ ~ ~ ~
-*BIBlack
-*BIRe
-*BIGreen
-*BIYellow
-*BIBlue
-*BIPurple
-*BICyan
-*BIWhite
+* BIBlack
+* BIRed
+* BIGreen
+* BIYellow
+* BIBlue
+* BIPurple
+* BICyan
+* BIWhite
 * ~ ~ ~ ~ ~ ~ ~  High Intensty Background ~ ~ ~ ~ ~ ~ ~
-*BaIBlack
-*BaIRed
-*BaIGreen
-*BaIYellow
-*BaIBlue
-*BaIPurple
-*BaICyan
-*BaIWhite
+* BaIBlack
+* BaIRed
+* BaIGreen
+* BaIYellow
+* BaIBlue
+* BaIPurple
+* BaICyan
+* BaIWhite
