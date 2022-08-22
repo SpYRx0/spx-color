@@ -7,6 +7,7 @@ setuptools.setup(
     author="Spyrx",
     description="A Project can help you To Use The Color in Python",
     long_descripton= read,
+    packges=["spx-color"]
     long_descripton_content_type="text/markdown",
     url= "https://github.com/SpYRx0/spx-color",
     classifiers=[
