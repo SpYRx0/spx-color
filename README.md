@@ -16,11 +16,12 @@ print(Red + "Hello, World!")
 # By Spyrx
 ```
 
-## The Methods in Module :
+### The Methods in Module :
+```
 * ~ ~ ~ ~ ~ ~ ~ Color ~ ~ ~ ~ ~ ~ ~ 
-* Black =
-* Red =
-* Green = 
+* Black 
+* Red
+* Green 
 * Yellow
 * Blue 
 * Purple 
@@ -80,3 +81,4 @@ print(Red + "Hello, World!")
 * BaIPurple
 * BaICyan
 * BaIWhite
+```
