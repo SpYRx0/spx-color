@@ -1,1 +1,1 @@
-from spxcolor import *
+from .spxcolor import *
